@@ -7,6 +7,8 @@
 </p>
 
 
+`rgb( 126, 183, 253 )`
+
 ### About the project
 
 slackthemes.net is a platform for browsing and sharing themes for [Slack](https://slack.com/).
